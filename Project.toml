@@ -1,0 +1,10 @@
+name = "MyTestPackage"
+uuid = "2fbdda77-8cfb-4236-a0e7-72684785b028"
+authors = ["Jon Alm Eriksen <jon.alm.eriksen@novelda.com>"]
+version = "0.1.0"
+
+[deps]
+GeometryBasics = "5c1252a2-5f33-56bf-86c9-59e7332b4326"
+InlineTest = "bd334432-b1e7-49c7-a2dc-dd9149e4ebd6"
+ReTest = "e0db7c4e-2690-44b9-bad6-7687da720f89"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
